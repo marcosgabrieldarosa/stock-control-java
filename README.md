@@ -1,6 +1,8 @@
 # Stock Control – Java (POO Focused Project)
 
-Projeto desenvolvido com o objetivo de consolidar conceitos fundamentais de **Programação Orientada a Objetos (POO) em Java**, aplicados a um domínio real de **controle de estoque**.
+![Console Output](docs/console-output.png)
+
+Projeto Java focado em Programação Orientada a Objetos (POO), com modelagem de domínio para controle de estoque e regras de negócio explícitas.
 
 Este projeto nasceu durante o bootcamp **Accenture Java & AWS (DIO)**, como uma forma prática de organizar o conhecimento adquirido e transformar teoria em código com regras de negócio reais.
 
@@ -77,7 +79,7 @@ Tudo isso é feito respeitando regras de negócio, evitando estados inválidos.
 
 ## 🛠️ Tecnologias Utilizadas
 
-* Java 17+
+* Java 21 (LTS)
 * Programação Orientada a Objetos (POO)
 * Git e GitHub
 
